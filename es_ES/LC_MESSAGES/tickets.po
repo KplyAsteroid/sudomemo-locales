@@ -203,4 +203,4 @@ msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Ticket Neighborhood Watch"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "¡Gracias Por Ayudarnos Manteniendo Sudomeme Un lugar Seguro Y amigable!"
+msgstr "¡Gracias Por Ayudarnos Manteniendo Sudomemo Un lugar Seguro Y amigable!"
